@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    background-image: url("naruto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    font-size:larger;
+}
+
+
+h1,h2,h3{
+    font-family:inherit;
+    font-size: larger;
+}
